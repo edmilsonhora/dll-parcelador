@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <NeutralLanguage>pt-BR</NeutralLanguage>
+    <Title>ESH Parcelador</Title>
+    <Authors>ESH-Systems</Authors>
+    <Description>Uma dll que gera parcelas a partir de valores</Description>
+    <RepositoryUrl>https://github.com/edmilsonhora/dll-parcelador</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>       
+  </PropertyGroup>
+
+</Project>
