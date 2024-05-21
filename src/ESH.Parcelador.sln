@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESH.Parcelador", "ESH.Parcelador\ESH.Parcelador.csproj", "{C2B505AA-524C-4C41-BAC9-13D03B0CE2C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESH.Parcelador.Testes", "ESH.Parcelador.Testes\ESH.Parcelador.Testes.csproj", "{DD1EFB0B-B81D-482E-BACD-DB152A47ABDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2B505AA-524C-4C41-BAC9-13D03B0CE2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B505AA-524C-4C41-BAC9-13D03B0CE2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B505AA-524C-4C41-BAC9-13D03B0CE2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B505AA-524C-4C41-BAC9-13D03B0CE2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1EFB0B-B81D-482E-BACD-DB152A47ABDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1EFB0B-B81D-482E-BACD-DB152A47ABDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1EFB0B-B81D-482E-BACD-DB152A47ABDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1EFB0B-B81D-482E-BACD-DB152A47ABDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {150B0EC9-01F1-4ECA-A50A-2E75478AFC3F}
+	EndGlobalSection
+EndGlobal
