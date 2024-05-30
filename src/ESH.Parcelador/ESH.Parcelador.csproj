@@ -8,7 +8,23 @@
     <Authors>ESH-Systems</Authors>
     <Description>Uma dll que gera parcelas a partir de valores</Description>
     <RepositoryUrl>https://github.com/edmilsonhora/dll-parcelador</RepositoryUrl>
-    <RepositoryType>git</RepositoryType>       
+    <RepositoryType>git</RepositoryType>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <Version>1.0.2</Version>
+    <PackageProjectUrl>https://github.com/edmilsonhora/dll-parcelador</PackageProjectUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>       
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>

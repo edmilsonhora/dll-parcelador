@@ -1,6 +1,8 @@
-﻿using ESH.Parcelador.Interfaces;
+﻿
+using ESH.Parcelas.Interfaces;
+using System;
 
-namespace ESH.Parcelador.Testes.UnitTestes
+namespace ESH.Parcelas.Testes.UnitTestes
 {
     public class ParceladorTestes
     {

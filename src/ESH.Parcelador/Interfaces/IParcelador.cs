@@ -1,5 +1,10 @@
-﻿namespace ESH.Parcelador.Interfaces
+﻿using System;
+
+namespace ESH.Parcelas.Interfaces
 {
+    /// <summary>
+    /// Interface Parcelador
+    /// </summary>
     public interface IParcelador
     {
         /// <summary>
