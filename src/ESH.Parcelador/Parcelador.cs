@@ -1,8 +1,12 @@
-﻿using ESH.Parcelador.Interfaces;
+﻿
+using ESH.Parcelas.Interfaces;
 using System;
 
-namespace ESH.Parcelador
+namespace ESH.Parcelas
 {
+    /// <summary>
+    /// Classe concreta Parcelador
+    /// </summary>
     public class Parcelador : IParcelador
     {
         /// <summary>
